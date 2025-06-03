@@ -32,7 +32,7 @@ Displays the generated content in two separate output boxes.
 
 📸 Demo
 
-![App Demo](Screenshot 2025-06-03 114020.png)
+![App Demo](image1.png)
 
 👤 Author
 Abdul Mukit
