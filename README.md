@@ -39,7 +39,8 @@ Displays the generated content in two separate output boxes.
 👤 Author
 Abdul Mukit
 
-[🔗 LinkedIn]([https://www.linkedin.com/in/abdulmukitds/])
+- [🔗 LinkedIn](https://www.linkedin.com/in/abdulmukitds/)
+
 
 
 💡 Future Improvements
