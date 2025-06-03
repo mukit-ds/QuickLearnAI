@@ -15,13 +15,6 @@ This is a simple and interactive Streamlit web application that allows users to 
 
 ---
 
-## 📦 Installation
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/your-username/notes-quiz-generator.git
-cd notes-quiz-generator
 
 🧩 How It Works
 The app performs the following steps:
@@ -39,7 +32,7 @@ Displays the generated content in two separate output boxes.
 
 📸 Demo
 
-![image](https://github.com/user-attachments/assets/c3173276-4d17-4b9d-825a-a5d485a9dcb5)
+![App Demo](demo.png)
 
 👤 Author
 Abdul Mukit
