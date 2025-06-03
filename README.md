@@ -32,15 +32,18 @@ Displays the generated content in two separate output boxes.
 
 📸 Demo
 
+
 ![App Demo](image1.png)
+
 
 👤 Author
 Abdul Mukit
 
-LinkedIn (https://www.linkedin.com/in/abdulmukitds/)
+[🔗 LinkedIn]([https://www.linkedin.com/in/abdulmukitds/])
 
 
 💡 Future Improvements
+
 Export notes & quiz as PDF or text file.
 
 Add model selection dropdown (e.g., GPT, Zephyr, Mistral).
