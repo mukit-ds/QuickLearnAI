@@ -8,7 +8,7 @@ from langchain.schema.runnable import RunnableParallel
 llm = HuggingFaceEndpoint(
     repo_id='HuggingFaceH4/zephyr-7b-beta',
     task='text-generation',
-    huggingfacehub_api_token="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"
+    huggingfacehub_api_token="########"
 )
 model = ChatHuggingFace(llm=llm)
 parser = StrOutputParser()
